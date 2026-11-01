@@ -1,0 +1,16 @@
+/* Exportar a Super Productivity — el diálogo del envío y las áreas de los ajustes. */
+.super-productivity-plan li {
+  margin: 0.3em 0;
+}
+.super-productivity-ya {
+  color: var(--text-muted);
+}
+.super-productivity-aviso {
+  color: var(--text-warning);
+  font-size: var(--font-ui-small);
+}
+.super-productivity-area {
+  width: min(24em, 100%);
+  font-family: var(--font-monospace);
+  font-size: var(--font-ui-small);
+}

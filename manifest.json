@@ -1,0 +1,10 @@
+{
+  "id": "super-productivity",
+  "name": "Exportar a Super Productivity",
+  "version": "0.1.0",
+  "minAppVersion": "1.7.2",
+  "description": "Las tareas del vault en la sintaxis corta de Super Productivity, en un bloque de código o en el portapapeles, y su envío opcional por la API REST local de Super Productivity, con simulación previa; sin Dataview.",
+  "author": "achalmed",
+  "authorUrl": "https://github.com/achalmed",
+  "isDesktopOnly": false
+}
